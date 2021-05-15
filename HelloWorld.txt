@@ -3,3 +3,4 @@ This is my test file created on 15/5/2021 at 12.42 hrs
 in the my-project project master branch
 This is a new additional line created in cloned file
 To update an SQL into this file later as part of sql-branch changes.
+Edited this line in server main branch
